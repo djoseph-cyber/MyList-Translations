@@ -1,0 +1,1466 @@
+  "MyListsPage": {
+    "PageTitle": {
+      "English": "My Lists",
+      "French": "Mes listes",
+      "Spanish": "Mis listas"
+    },
+    "NeedsJavaScript": {
+      "English": "My Lists needs JavaScript to be enabled in your browser.",
+      "French": "Mes listes nécessite que JavaScript soit activé dans votre navigateur.",
+      "Spanish": "Mis listas requiere que JavaScript esté habilitado en su navegador."
+    },
+    "Lists": {
+      "English": "Lists",
+      "French": "Listes",
+      "Spanish": "Listas"
+    },
+    "AllParticipants": {
+      "English": "All participants",
+      "French": "Tous les participants",
+      "Spanish": "Todos los participantes"
+    },
+    "AllParticipantsBlurb": {
+      "English": "Everyone who has completed an assessment in your group codes",
+      "French": "Toutes les personnes ayant complété une évaluation dans vos codes de groupe",
+      "Spanish": "Todas las personas que han completado una evaluación en sus códigos de grupo"
+    },
+    "All": {
+      "English": "All",
+      "French": "Tous",
+      "Spanish": "Todos"
+    },
+    "MyLists": {
+      "English": "My lists",
+      "French": "Mes listes",
+      "Spanish": "Mis listas"
+    },
+    "SharedWithMe": {
+      "English": "Shared with me",
+      "French": "Partagées avec moi",
+      "Spanish": "Compartidas conmigo"
+    },
+    "MyList": {
+      "English": "My list",
+      "French": "Ma liste",
+      "Spanish": "Mi lista"
+    },
+    "Shared": {
+      "English": "Shared",
+      "French": "Partagée",
+      "Spanish": "Compartida"
+    },
+    "FindAList": {
+      "English": "Find a list",
+      "French": "Trouver une liste",
+      "Spanish": "Buscar una lista"
+    },
+    "SortLists": {
+      "English": "Sort lists",
+      "French": "Trier les listes",
+      "Spanish": "Ordenar listas"
+    },
+    "SortAZ": {
+      "English": "A–Z",
+      "French": "A–Z",
+      "Spanish": "A–Z"
+    },
+    "SortRecent": {
+      "English": "Recent",
+      "French": "Récentes",
+      "Spanish": "Recientes"
+    },
+    "NoListsMatch": {
+      "English": "No lists match",
+      "French": "Aucune liste ne correspond",
+      "Spanish": "Ninguna lista coincide"
+    },
+    "NothingHereYet": {
+      "English": "Nothing here yet",
+      "French": "Rien pour l’instant",
+      "Spanish": "Nada por ahora"
+    },
+    "NofM": {
+      "English": "{n} of {m}",
+      "French": "{n} sur {m}",
+      "Spanish": "{n} de {m}"
+    },
+    "ShowAllN": {
+      "English": "Show all {n}",
+      "French": "Afficher les {n}",
+      "Spanish": "Mostrar las {n}"
+    },
+    "ShowFewer": {
+      "English": "Show fewer",
+      "French": "Afficher moins",
+      "Spanish": "Mostrar menos"
+    },
+    "Pin": {
+      "English": "Pin",
+      "French": "Épingler",
+      "Spanish": "Fijar"
+    },
+    "Unpin": {
+      "English": "Unpin",
+      "French": "Désépingler",
+      "Spanish": "Desfijar"
+    },
+    "PinToTop": {
+      "English": "Pin to top",
+      "French": "Épingler en haut",
+      "Spanish": "Fijar arriba"
+    },
+    "PinnedList": {
+      "English": "Pinned “{name}” to the top",
+      "French": "« {name} » épinglée en haut",
+      "Spanish": "«{name}» fijada arriba"
+    },
+    "UnpinnedList": {
+      "English": "Unpinned “{name}”",
+      "French": "« {name} » désépinglée",
+      "Spanish": "«{name}» desfijada"
+    },
+    "NewList": {
+      "English": "New list",
+      "French": "Nouvelle liste",
+      "Spanish": "Nueva lista"
+    },
+    "NewListEllipsis": {
+      "English": "New list…",
+      "French": "Nouvelle liste…",
+      "Spanish": "Nueva lista…"
+    },
+    "NewListName": {
+      "English": "New list name",
+      "French": "Nom de la nouvelle liste",
+      "Spanish": "Nombre de la nueva lista"
+    },
+    "ListName": {
+      "English": "List name",
+      "French": "Nom de la liste",
+      "Spanish": "Nombre de la lista"
+    },
+    "NameItAnything": {
+      "English": "Name it whatever suits you",
+      "French": "Nommez-la comme vous le souhaitez",
+      "Spanish": "Póngale el nombre que prefiera"
+    },
+    "Create": {
+      "English": "Create",
+      "French": "Créer",
+      "Spanish": "Crear"
+    },
+    "CreatedList": {
+      "English": "Created “{name}”",
+      "French": "« {name} » créée",
+      "Spanish": "«{name}» creada"
+    },
+    "Cancel": {
+      "English": "Cancel",
+      "French": "Annuler",
+      "Spanish": "Cancelar"
+    },
+    "Save": {
+      "English": "Save",
+      "French": "Enregistrer",
+      "Spanish": "Guardar"
+    },
+    "Close": {
+      "English": "Close",
+      "French": "Fermer",
+      "Spanish": "Cerrar"
+    },
+    "Done": {
+      "English": "Done",
+      "French": "Terminé",
+      "Spanish": "Listo"
+    },
+    "Add": {
+      "English": "Add",
+      "French": "Ajouter",
+      "Spanish": "Agregar"
+    },
+    "Clear": {
+      "English": "Clear",
+      "French": "Effacer",
+      "Spanish": "Borrar"
+    },
+    "Remove": {
+      "English": "Remove",
+      "French": "Retirer",
+      "Spanish": "Quitar"
+    },
+    "Loading": {
+      "English": "Loading…",
+      "French": "Chargement…",
+      "Spanish": "Cargando…"
+    },
+    "CanEdit": {
+      "English": "Can edit",
+      "French": "Peut modifier",
+      "Spanish": "Puede editar"
+    },
+    "CanView": {
+      "English": "Can view",
+      "French": "Peut consulter",
+      "Spanish": "Puede ver"
+    },
+    "ViewOnly": {
+      "English": "View only",
+      "French": "Consultation seule",
+      "Spanish": "Solo lectura"
+    },
+    "AccessEditShort": {
+      "English": "edit",
+      "French": "modification",
+      "Spanish": "edición"
+    },
+    "AccessViewShort": {
+      "English": "view",
+      "French": "consultation",
+      "Spanish": "lectura"
+    },
+    "Private": {
+      "English": "Private",
+      "French": "Privée",
+      "Spanish": "Privada"
+    },
+    "SharedWith": {
+      "English": "Shared with",
+      "French": "Partagée avec",
+      "Spanish": "Compartida con"
+    },
+    "SharedBy": {
+      "English": "Shared by",
+      "French": "Partagée par",
+      "Spanish": "Compartida por"
+    },
+    "SharedWithCount": {
+      "English": "Shared with {n}",
+      "French": "Partagée avec {n}",
+      "Spanish": "Compartida con {n}"
+    },
+    "NParticipants": {
+      "English": "{n} participants",
+      "French": "{n} participants",
+      "Spanish": "{n} participantes"
+    },
+    "NMatching": {
+      "English": "{n} matching",
+      "French": "{n} correspondants",
+      "Spanish": "{n} coincidencias"
+    },
+    "UpdatedOn": {
+      "English": "Updated {date}",
+      "French": "Mise à jour le {date}",
+      "Spanish": "Actualizada el {date}"
+    },
+    "Share": {
+      "English": "Share",
+      "French": "Partager",
+      "Spanish": "Compartir"
+    },
+    "ShareList": {
+      "English": "Share list",
+      "French": "Partager la liste",
+      "Spanish": "Compartir la lista"
+    },
+    "MoreListActions": {
+      "English": "More list actions",
+      "French": "Autres actions sur la liste",
+      "Spanish": "Más acciones de la lista"
+    },
+    "RenameList": {
+      "English": "Rename list",
+      "French": "Renommer la liste",
+      "Spanish": "Cambiar el nombre de la lista"
+    },
+    "ListRenamed": {
+      "English": "List renamed",
+      "French": "Liste renommée",
+      "Spanish": "Lista renombrada"
+    },
+    "DeleteList": {
+      "English": "Delete list",
+      "French": "Supprimer la liste",
+      "Spanish": "Eliminar la lista"
+    },
+    "DeleteConfirm": {
+      "English": "Delete “{name}”? Its {n} participants stay in the portal and in All participants.",
+      "French": "Supprimer « {name} » ? Ses {n} participants restent dans le portail et dans Tous les participants.",
+      "Spanish": "¿Eliminar «{name}»? Sus {n} participantes permanecen en el portal y en Todos los participantes."
+    },
+    "DeleteLosesAccess": {
+      "English": "{n} people you shared it with lose access.",
+      "French": "{n} personnes avec qui vous l’avez partagée perdront l’accès.",
+      "Spanish": "{n} personas con quienes la compartió perderán el acceso."
+    },
+    "ListDeleted": {
+      "English": "Deleted “{name}”",
+      "French": "« {name} » supprimée",
+      "Spanish": "«{name}» eliminada"
+    },
+    "ParticipantsNotAffected": {
+      "English": "Participants were not affected",
+      "French": "Les participants n’ont pas été touchés",
+      "Spanish": "Los participantes no se vieron afectados"
+    },
+    "Search": {
+      "English": "Search",
+      "French": "Rechercher",
+      "Spanish": "Buscar"
+    },
+    "SearchByNameOrEmail": {
+      "English": "Search by name or email",
+      "French": "Rechercher par nom ou courriel",
+      "Spanish": "Buscar por nombre o correo electrónico"
+    },
+    "SearchThisList": {
+      "English": "Search this list",
+      "French": "Rechercher dans cette liste",
+      "Spanish": "Buscar en esta lista"
+    },
+    "CompletedFrom": {
+      "English": "Completed from",
+      "French": "Complétée à partir du",
+      "Spanish": "Completada desde"
+    },
+    "CompletedTo": {
+      "English": "Completed to",
+      "French": "Complétée jusqu’au",
+      "Spanish": "Completada hasta"
+    },
+    "GroupCode": {
+      "English": "Group code",
+      "French": "Code de groupe",
+      "Spanish": "Código de grupo"
+    },
+    "AllGroupCodes": {
+      "English": "All group codes",
+      "French": "Tous les codes de groupe",
+      "Spanish": "Todos los códigos de grupo"
+    },
+    "Participant": {
+      "English": "Participant",
+      "French": "Participant",
+      "Spanish": "Participante"
+    },
+    "Date": {
+      "English": "Date",
+      "French": "Date",
+      "Spanish": "Fecha"
+    },
+    "HintAll": {
+      "English": "Tick participants, then choose Add to list.",
+      "French": "Cochez des participants, puis choisissez Ajouter à une liste.",
+      "Spanish": "Marque participantes y luego elija Agregar a una lista."
+    },
+    "HintList": {
+      "English": "Tick participants to copy them to another list or remove them.",
+      "French": "Cochez des participants pour les copier dans une autre liste ou les retirer.",
+      "Spanish": "Marque participantes para copiarlos a otra lista o quitarlos."
+    },
+    "NSelected": {
+      "English": "{n} selected",
+      "French": "{n} sélectionnés",
+      "Spanish": "{n} seleccionados"
+    },
+    "AddToList": {
+      "English": "Add to list",
+      "French": "Ajouter à une liste",
+      "Spanish": "Agregar a una lista"
+    },
+    "AddN": {
+      "English": "Add {n}",
+      "French": "Ajouter {n}",
+      "Spanish": "Agregar {n}"
+    },
+    "List": {
+      "English": "List",
+      "French": "Liste",
+      "Spanish": "Lista"
+    },
+    "AlreadyOnListSkipped": {
+      "English": "People already on the list are skipped.",
+      "French": "Les personnes déjà dans la liste sont ignorées.",
+      "Spanish": "Las personas que ya están en la lista se omiten."
+    },
+    "TheyStayOnThisList": {
+      "English": "They stay on this list too.",
+      "French": "Elles restent aussi dans cette liste.",
+      "Spanish": "También permanecen en esta lista."
+    },
+    "AddedNToList": {
+      "English": "Added {n} to “{list}”",
+      "French": "{n} ajoutés à « {list} »",
+      "Spanish": "{n} agregados a «{list}»"
+    },
+    "NSkipped": {
+      "English": "{n} skipped",
+      "French": "{n} ignorés",
+      "Spanish": "{n} omitidos"
+    },
+    "RemoveFromList": {
+      "English": "Remove from list",
+      "French": "Retirer de la liste",
+      "Spanish": "Quitar de la lista"
+    },
+    "RemoveConfirm": {
+      "English": "Remove {n} from this list? They stay in All participants and on any other lists.",
+      "French": "Retirer {n} de cette liste ? Ils restent dans Tous les participants et dans toute autre liste.",
+      "Spanish": "¿Quitar {n} de esta lista? Permanecen en Todos los participantes y en cualquier otra lista."
+    },
+    "RemoveN": {
+      "English": "Remove {n}",
+      "French": "Retirer {n}",
+      "Spanish": "Quitar {n}"
+    },
+    "RemovedNFromList": {
+      "English": "Removed {n} from “{list}”",
+      "French": "{n} retirés de « {list} »",
+      "Spanish": "{n} quitados de «{list}»"
+    },
+    "ClearSelection": {
+      "English": "Clear selection",
+      "French": "Effacer la sélection",
+      "Spanish": "Borrar la selección"
+    },
+    "AllNMatchingSelected": {
+      "English": "All {n} matching participants are selected.",
+      "French": "Les {n} participants correspondants sont sélectionnés.",
+      "Spanish": "Los {n} participantes que coinciden están seleccionados."
+    },
+    "AllNOnPageSelected": {
+      "English": "All {n} on this page are selected.",
+      "French": "Les {n} de cette page sont sélectionnés.",
+      "Spanish": "Los {n} de esta página están seleccionados."
+    },
+    "SelectAllNThatMatch": {
+      "English": "Select all {n} that match",
+      "French": "Sélectionner les {n} correspondants",
+      "Spanish": "Seleccionar los {n} que coinciden"
+    },
+    "SelectAllOnPage": {
+      "English": "Select all on this page",
+      "French": "Tout sélectionner sur cette page",
+      "Spanish": "Seleccionar todo en esta página"
+    },
+    "SelectPerson": {
+      "English": "Select {name}",
+      "French": "Sélectionner {name}",
+      "Spanish": "Seleccionar a {name}"
+    },
+    "HiddenMembers": {
+      "English": "{n} members are outside your group codes and are hidden from you.",
+      "French": "{n} membres sont hors de vos codes de groupe et vous sont masqués.",
+      "Spanish": "{n} miembros están fuera de sus códigos de grupo y no se le muestran."
+    },
+    "OpenList": {
+      "English": "Open list",
+      "French": "Ouvrir la liste",
+      "Spanish": "Abrir la lista"
+    },
+    "NMore": {
+      "English": "+{n} more",
+      "French": "+{n} autres",
+      "Spanish": "+{n} más"
+    },
+    "ListIsEmpty": {
+      "English": "This list is empty",
+      "French": "Cette liste est vide",
+      "Spanish": "Esta lista está vacía"
+    },
+    "ListIsEmptyHelp": {
+      "English": "Open All participants, tick the people you want and choose Add to list.",
+      "French": "Ouvrez Tous les participants, cochez les personnes voulues et choisissez Ajouter à une liste.",
+      "Spanish": "Abra Todos los participantes, marque a las personas que desee y elija Agregar a una lista."
+    },
+    "GoToAllParticipants": {
+      "English": "Go to All participants",
+      "French": "Aller à Tous les participants",
+      "Spanish": "Ir a Todos los participantes"
+    },
+    "NobodyMatches": {
+      "English": "Nobody matches.",
+      "French": "Aucun résultat.",
+      "Spanish": "Nadie coincide."
+    },
+    "ClearFilters": {
+      "English": "Clear filters",
+      "French": "Effacer les filtres",
+      "Spanish": "Borrar filtros"
+    },
+    "RangeOfTotal": {
+      "English": "{from}–{to} of {total}",
+      "French": "{from}–{to} sur {total}",
+      "Spanish": "{from}–{to} de {total}"
+    },
+    "PreviousPage": {
+      "English": "Previous page",
+      "French": "Page précédente",
+      "Spanish": "Página anterior"
+    },
+    "NextPage": {
+      "English": "Next page",
+      "French": "Page suivante",
+      "Spanish": "Página siguiente"
+    },
+    "GoTo": {
+      "English": "Go to",
+      "French": "Aller à",
+      "Spanish": "Ir a"
+    },
+    "GoToPage": {
+      "English": "Go to page",
+      "French": "Aller à la page",
+      "Spanish": "Ir a la página"
+    },
+    "Rows": {
+      "English": "Rows",
+      "French": "Lignes",
+      "Spanish": "Filas"
+    },
+    "RowsPerPage": {
+      "English": "Rows per page",
+      "French": "Lignes par page",
+      "Spanish": "Filas por página"
+    },
+    "Person": {
+      "English": "Person",
+      "French": "Personne",
+      "Spanish": "Persona"
+    },
+    "Access": {
+      "English": "Access",
+      "French": "Accès",
+      "Spanish": "Acceso"
+    },
+    "AccessFor": {
+      "English": "Access for {name}",
+      "French": "Accès pour {name}",
+      "Spanish": "Acceso de {name}"
+    },
+    "RemoveAccessFor": {
+      "English": "Remove access for {name}",
+      "French": "Retirer l’accès de {name}",
+      "Spanish": "Quitar el acceso de {name}"
+    },
+    "EveryoneHasAccess": {
+      "English": "Everyone already has access",
+      "French": "Tout le monde a déjà accès",
+      "Spanish": "Todos ya tienen acceso"
+    },
+    "OnlyYouCanSee": {
+      "English": "Only you can see this list.",
+      "French": "Vous seul pouvez voir cette liste.",
+      "Spanish": "Solo usted puede ver esta lista."
+    },
+    "ShareAccessNote": {
+      "English": "Can view: see the list and its participants. Can edit: also add and remove people. Only you can rename, share or delete the list.",
+      "French": "Peut consulter : voir la liste et ses participants. Peut modifier : aussi ajouter et retirer des personnes. Vous seul pouvez renommer, partager ou supprimer la liste.",
+      "Spanish": "Puede ver: ver la lista y sus participantes. Puede editar: además agregar y quitar personas. Solo usted puede cambiar el nombre, compartir o eliminar la lista."
+    },
+    "CompanyOnly": {
+      "English": "People in your company only",
+      "French": "Personnes de votre entreprise uniquement",
+      "Spanish": "Solo personas de su empresa"
+    },
+    "SharedWithName": {
+      "English": "Shared with {name}",
+      "French": "Partagée avec {name}",
+      "Spanish": "Compartida con {name}"
+    },
+    "AccessRemovedFor": {
+      "English": "{name} no longer has access",
+      "French": "{name} n’a plus accès",
+      "Spanish": "{name} ya no tiene acceso"
+    },
+    "AccessUpdated": {
+      "English": "Access updated",
+      "French": "Accès mis à jour",
+      "Spanish": "Acceso actualizado"
+    },
+    "Company": {
+      "English": "Company",
+      "French": "Entreprise",
+      "Spanish": "Empresa"
+    },
+    "TypeToFindCompany": {
+      "English": "Type to find a company",
+      "French": "Tapez pour trouver une entreprise",
+      "Spanish": "Escriba para buscar una empresa"
+    },
+    "NoCompaniesMatch": {
+      "English": "No companies match",
+      "French": "Aucune entreprise ne correspond",
+      "Spanish": "Ninguna empresa coincide"
+    },
+    "TypeToNarrow": {
+      "English": "{n} companies – keep typing to narrow the list",
+      "French": "{n} entreprises – continuez à taper pour affiner la liste",
+      "Spanish": "{n} empresas – siga escribiendo para acotar la lista"
+    },
+    "AddNTags": {
+      "English": "Add {n} tag(s)",
+      "French": "Ajouter {n} étiquette(s)",
+      "Spanish": "Agregar {n} etiqueta(s)"
+    },
+    "AddOne": {
+      "English": "add one",
+      "French": "en ajouter un",
+      "Spanish": "agregar uno"
+    },
+    "AddToAllN": {
+      "English": "add to all {n}",
+      "French": "ajouter aux {n}",
+      "Spanish": "agregar a los {n}"
+    },
+    "AllBenchmarkHelp": {
+      "English": "Scores everyone in view for this visit. It is not saved; each list keeps its own benchmark.",
+      "French": "Évalue toutes les personnes affichées pour cette visite. Ce n’est pas enregistré ; chaque liste garde son propre profil de référence.",
+      "Spanish": "Puntúa a todas las personas visibles durante esta visita. No se guarda; cada lista conserva su propio perfil de referencia."
+    },
+    "AllNSelected": {
+      "English": "All {n} selected",
+      "French": "Les {n} sélectionnés",
+      "Spanish": "Los {n} seleccionados"
+    },
+    "AnyFit": {
+      "English": "Any fit",
+      "French": "Toute adéquation",
+      "Spanish": "Cualquier ajuste"
+    },
+    "Apply": {
+      "English": "Apply",
+      "French": "Appliquer",
+      "Spanish": "Aplicar"
+    },
+    "ApplyTagsTo": {
+      "English": "Apply tags to",
+      "French": "Appliquer les étiquettes à",
+      "Spanish": "Aplicar etiquetas a"
+    },
+    "Archive": {
+      "English": "Archive",
+      "French": "Archiver",
+      "Spanish": "Archivar"
+    },
+    "Archived": {
+      "English": "Archived",
+      "French": "Archivé",
+      "Spanish": "Archivado"
+    },
+    "Assessments": {
+      "English": "Assessments",
+      "French": "Évaluations",
+      "Spanish": "Evaluaciones"
+    },
+    "Benchmark": {
+      "English": "Benchmark",
+      "French": "Profil de référence",
+      "Spanish": "Perfil de referencia"
+    },
+    "BenchmarkRemoved": {
+      "English": "Benchmark removed",
+      "French": "Profil de référence retiré",
+      "Spanish": "Perfil de referencia quitado"
+    },
+    "BulkTagHelp": {
+      "English": "Click a tag to add it to everyone selected; click again to remove it from everyone; a third click leaves it as it was.",
+      "French": "Cliquez sur une étiquette pour l’ajouter à toutes les personnes sélectionnées ; cliquez à nouveau pour la retirer à tout le monde ; un troisième clic la laisse inchangée.",
+      "Spanish": "Haga clic en una etiqueta para agregarla a todos los seleccionados; vuelva a hacer clic para quitarla a todos; un tercer clic la deja como estaba."
+    },
+    "Change": {
+      "English": "change",
+      "French": "modifier",
+      "Spanish": "cambiar"
+    },
+    "CompanyBenchmark": {
+      "English": "Company benchmark",
+      "French": "Profil de l’entreprise",
+      "Spanish": "Perfil de la empresa"
+    },
+    "Completed": {
+      "English": "Completed",
+      "French": "Complétée",
+      "Spanish": "Completada"
+    },
+    "CreateTagAndAdd": {
+      "English": "Create tag “{tag}” and add it to all {n}",
+      "French": "Créer l’étiquette « {tag} » et l’ajouter aux {n}",
+      "Spanish": "Crear la etiqueta «{tag}» y agregarla a los {n}"
+    },
+    "CreateTagX": {
+      "English": "Create tag “{tag}”",
+      "French": "Créer l’étiquette « {tag} »",
+      "Spanish": "Crear la etiqueta «{tag}»"
+    },
+    "DateCompleted": {
+      "English": "Date completed",
+      "French": "Date de complétion",
+      "Spanish": "Fecha de finalización"
+    },
+    "Details": {
+      "English": "Details",
+      "French": "Détails",
+      "Spanish": "Detalles"
+    },
+    "Download": {
+      "English": "Download",
+      "French": "Télécharger",
+      "Spanish": "Descargar"
+    },
+    "DownloadLimitNote": {
+      "English": "Up to {n} reports per download. More than {m} are prepared in the background, and the bell tells you when the zip is ready.",
+      "French": "Jusqu’à {n} rapports par téléchargement. Au-delà de {m}, ils sont préparés en arrière-plan et la cloche vous prévient quand le zip est prêt.",
+      "Spanish": "Hasta {n} informes por descarga. Más de {m} se preparan en segundo plano y la campana le avisa cuando el zip está listo."
+    },
+    "DownloadN": {
+      "English": "Download {n}",
+      "French": "Télécharger {n}",
+      "Spanish": "Descargar {n}"
+    },
+    "DownloadNReportsConfirm": {
+      "English": "Download the {n} reports you ticked as one zip file?",
+      "French": "Télécharger les {n} rapports cochés dans un seul fichier zip ?",
+      "Spanish": "¿Descargar los {n} informes marcados en un solo archivo zip?"
+    },
+    "DownloadReports": {
+      "English": "Download reports",
+      "French": "Télécharger les rapports",
+      "Spanish": "Descargar informes"
+    },
+    "DownloadSelectedReports": {
+      "English": "Download selected reports",
+      "French": "Télécharger les rapports sélectionnés",
+      "Spanish": "Descargar los informes seleccionados"
+    },
+    "Email": {
+      "English": "Email",
+      "French": "Courriel",
+      "Spanish": "Correo electrónico"
+    },
+    "Export": {
+      "English": "Export",
+      "French": "Exporter",
+      "Spanish": "Exportar"
+    },
+    "ExportWholeList": {
+      "English": "Export whole list",
+      "French": "Exporter toute la liste",
+      "Spanish": "Exportar toda la lista"
+    },
+    "ExportedNRows": {
+      "English": "Exported {n} rows",
+      "French": "{n} lignes exportées",
+      "Spanish": "{n} filas exportadas"
+    },
+    "FilterByFit": {
+      "English": "Filter by fit",
+      "French": "Filtrer par adéquation",
+      "Spanish": "Filtrar por ajuste"
+    },
+    "FindOrCreateTag": {
+      "English": "Find or create a tag",
+      "French": "Trouver ou créer une étiquette",
+      "Spanish": "Buscar o crear una etiqueta"
+    },
+    "FirstName": {
+      "English": "First name",
+      "French": "Prénom",
+      "Spanish": "Nombre"
+    },
+    "Fit": {
+      "English": "Fit",
+      "French": "Adéquation",
+      "Spanish": "Ajuste"
+    },
+    "FitHigh": {
+      "English": "High (75+)",
+      "French": "Élevée (75+)",
+      "Spanish": "Alto (75+)"
+    },
+    "FitLow": {
+      "English": "Low (under 50)",
+      "French": "Faible (moins de 50)",
+      "Spanish": "Bajo (menos de 50)"
+    },
+    "FitMid": {
+      "English": "Mid (50–74)",
+      "French": "Moyenne (50–74)",
+      "Spanish": "Medio (50–74)"
+    },
+    "FitScore": {
+      "English": "Fit score",
+      "French": "Score d’adéquation",
+      "Spanish": "Puntuación de ajuste"
+    },
+    "FitTo": {
+      "English": "Fit to {bm}",
+      "French": "Adéquation à {bm}",
+      "Spanish": "Ajuste a {bm}"
+    },
+    "GroupCodeDescription": {
+      "English": "Group code description",
+      "French": "Description du code de groupe",
+      "Spanish": "Descripción del código de grupo"
+    },
+    "JustName": {
+      "English": "Just {name}",
+      "French": "Seulement {name}",
+      "Spanish": "Solo {name}"
+    },
+    "LastName": {
+      "English": "Last name",
+      "French": "Nom",
+      "Spanish": "Apellido"
+    },
+    "ListBenchmark": {
+      "English": "List benchmark",
+      "French": "Profil de référence de la liste",
+      "Spanish": "Perfil de referencia de la lista"
+    },
+    "ListBenchmarkHelp": {
+      "English": "A list is scored against one benchmark, saved with the list, or none. Changing it rescores all {n} people for everyone who can see the list.",
+      "French": "Une liste est évaluée selon un seul profil de référence, enregistré avec la liste, ou aucun. Le modifier réévalue les {n} personnes pour tous ceux qui voient la liste.",
+      "Spanish": "Una lista se puntúa con un solo perfil de referencia, guardado con la lista, o ninguno. Cambiarlo vuelve a puntuar a las {n} personas para todos los que pueden ver la lista."
+    },
+    "ListShort": {
+      "English": "List",
+      "French": "Liste",
+      "Spanish": "Lista"
+    },
+    "MinFitChange": {
+      "English": "min {n} · change",
+      "French": "min {n} · modifier",
+      "Spanish": "mín. {n} · cambiar"
+    },
+    "NArchived": {
+      "English": "{n} archived",
+      "French": "{n} archivés",
+      "Spanish": "{n} archivados"
+    },
+    "NArchivedDone": {
+      "English": "{n} archived",
+      "French": "{n} archivés",
+      "Spanish": "{n} archivados"
+    },
+    "NFit": {
+      "English": "{n} fit",
+      "French": "{n} adéq.",
+      "Spanish": "{n} ajuste"
+    },
+    "NParticipantsOneZip": {
+      "English": "{n} participants · one zip",
+      "French": "{n} participants · un zip",
+      "Spanish": "{n} participantes · un zip"
+    },
+    "NPdfs": {
+      "English": "{n} PDFs",
+      "French": "{n} PDF",
+      "Spanish": "{n} PDF"
+    },
+    "NPdfsOneZip": {
+      "English": "{n} PDFs · one zip",
+      "French": "{n} PDF · un zip",
+      "Spanish": "{n} PDF · un zip"
+    },
+    "NReportsSelected": {
+      "English": "{n} reports selected",
+      "French": "{n} rapports sélectionnés",
+      "Spanish": "{n} informes seleccionados"
+    },
+    "NRestoredDone": {
+      "English": "{n} restored",
+      "French": "{n} restaurés",
+      "Spanish": "{n} restaurados"
+    },
+    "NextPerson": {
+      "English": "Next person (↓)",
+      "French": "Personne suivante (↓)",
+      "Spanish": "Persona siguiente (↓)"
+    },
+    "NoBenchmark": {
+      "English": "No benchmark",
+      "French": "Aucun profil de référence",
+      "Spanish": "Sin perfil de referencia"
+    },
+    "NoChangesYet": {
+      "English": "No changes yet",
+      "French": "Aucune modification",
+      "Spanish": "Sin cambios todavía"
+    },
+    "NoFitScores": {
+      "English": "No fit scores are shown",
+      "French": "Aucun score d’adéquation affiché",
+      "Spanish": "No se muestran puntuaciones de ajuste"
+    },
+    "NoTagsMatch": {
+      "English": "No tags match.",
+      "French": "Aucune étiquette ne correspond.",
+      "Spanish": "Ninguna etiqueta coincide."
+    },
+    "NoTagsYet": {
+      "English": "No tags yet",
+      "French": "Aucune étiquette",
+      "Spanish": "Sin etiquetas todavía"
+    },
+    "None": {
+      "English": "None",
+      "French": "Aucune",
+      "Spanish": "Ninguna"
+    },
+    "NoneYet": {
+      "English": "None yet",
+      "French": "Aucune pour l’instant",
+      "Spanish": "Ninguna por ahora"
+    },
+    "OnLists": {
+      "English": "On lists",
+      "French": "Dans les listes",
+      "Spanish": "En listas"
+    },
+    "OnlyShowFitAtLeast": {
+      "English": "Only show fit of at least {n}",
+      "French": "N’afficher qu’une adéquation d’au moins {n}",
+      "Spanish": "Mostrar solo un ajuste de al menos {n}"
+    },
+    "OpenReport": {
+      "English": "Open {product} {report} PDF",
+      "French": "Ouvrir le PDF {product} {report}",
+      "Spanish": "Abrir el PDF {product} {report}"
+    },
+    "ParticipantPreview": {
+      "English": "Participant preview",
+      "French": "Aperçu du participant",
+      "Spanish": "Vista previa del participante"
+    },
+    "PreparingDownload": {
+      "English": "Preparing {n} reports…",
+      "French": "Préparation de {n} rapports…",
+      "Spanish": "Preparando {n} informes…"
+    },
+    "PreviousPerson": {
+      "English": "Previous person (↑)",
+      "French": "Personne précédente (↑)",
+      "Spanish": "Persona anterior (↑)"
+    },
+    "Product": {
+      "English": "Product",
+      "French": "Produit",
+      "Spanish": "Producto"
+    },
+    "RemoveFromAllN": {
+      "English": "remove from all {n}",
+      "French": "retirer aux {n}",
+      "Spanish": "quitar a los {n}"
+    },
+    "RemoveFromAllSelected": {
+      "English": "Remove from everyone selected",
+      "French": "Retirer à toutes les personnes sélectionnées",
+      "Spanish": "Quitar a todos los seleccionados"
+    },
+    "RemoveNTags": {
+      "English": "remove {n}",
+      "French": "retirer {n}",
+      "Spanish": "quitar {n}"
+    },
+    "RemoveTagX": {
+      "English": "Remove tag {tag}",
+      "French": "Retirer l’étiquette {tag}",
+      "Spanish": "Quitar la etiqueta {tag}"
+    },
+    "Report": {
+      "English": "Report",
+      "French": "Rapport",
+      "Spanish": "Informe"
+    },
+    "ReportTypes": {
+      "English": "Report types",
+      "French": "Types de rapport",
+      "Spanish": "Tipos de informe"
+    },
+    "Reports": {
+      "English": "Reports",
+      "French": "Rapports",
+      "Spanish": "Informes"
+    },
+    "ReportsTitle": {
+      "English": "Every report for this person",
+      "French": "Tous les rapports de cette personne",
+      "Spanish": "Todos los informes de esta persona"
+    },
+    "RescoredAgainst": {
+      "English": "Rescored against {bm}",
+      "French": "Réévalué selon {bm}",
+      "Spanish": "Puntuado de nuevo con {bm}"
+    },
+    "Restore": {
+      "English": "Restore",
+      "French": "Restaurer",
+      "Spanish": "Restaurar"
+    },
+    "ScoreAgainstBenchmark": {
+      "English": "Score against a benchmark…",
+      "French": "Évaluer selon un profil de référence…",
+      "Spanish": "Puntuar con un perfil de referencia…"
+    },
+    "SelectAllReportsFor": {
+      "English": "Select all reports for {name}",
+      "French": "Sélectionner tous les rapports de {name}",
+      "Spanish": "Seleccionar todos los informes de {name}"
+    },
+    "SelectReport": {
+      "English": "Select {product} {report} report",
+      "French": "Sélectionner le rapport {product} {report}",
+      "Spanish": "Seleccionar el informe {product} {report}"
+    },
+    "ShowArchivedN": {
+      "English": "Show archived ({n})",
+      "French": "Afficher les archivés ({n})",
+      "Spanish": "Mostrar archivados ({n})"
+    },
+    "Tag": {
+      "English": "Tag",
+      "French": "Étiqueter",
+      "Spanish": "Etiquetar"
+    },
+    "TagLower": {
+      "English": "tag",
+      "French": "étiquette",
+      "Spanish": "etiqueta"
+    },
+    "TagName": {
+      "English": "Tag name",
+      "French": "Nom de l’étiquette",
+      "Spanish": "Nombre de la etiqueta"
+    },
+    "TagParticipants": {
+      "English": "Tag participants",
+      "French": "Étiqueter des participants",
+      "Spanish": "Etiquetar participantes"
+    },
+    "Tags": {
+      "English": "Tags",
+      "French": "Étiquettes",
+      "Spanish": "Etiquetas"
+    },
+    "TagsAreCompanyWide": {
+      "English": "Tags are your own words, shared with your company. None are preset.",
+      "French": "Les étiquettes sont vos propres mots, partagés avec votre entreprise. Aucune n’est prédéfinie.",
+      "Spanish": "Las etiquetas son sus propias palabras, compartidas con su empresa. Ninguna está predefinida."
+    },
+    "TagsChangeAllSelected": {
+      "English": "Adding or removing a tag here changes all {n} selected participants.",
+      "French": "Ajouter ou retirer une étiquette ici modifie les {n} participants sélectionnés.",
+      "Spanish": "Agregar o quitar una etiqueta aquí cambia a los {n} participantes seleccionados."
+    },
+    "TagsFor": {
+      "English": "Tags · {who}",
+      "French": "Étiquettes · {who}",
+      "Spanish": "Etiquetas · {who}"
+    },
+    "TagsUpdatedForN": {
+      "English": "Tags updated for {n} participants",
+      "French": "Étiquettes mises à jour pour {n} participants",
+      "Spanish": "Etiquetas actualizadas para {n} participantes"
+    },
+    "TalentClickBenchmark": {
+      "English": "TalentClick",
+      "French": "TalentClick",
+      "Spanish": "TalentClick"
+    },
+    "TickShowArchived": {
+      "English": "Tick Show archived to see them",
+      "French": "Cochez Afficher les archivés pour les voir",
+      "Spanish": "Marque Mostrar archivados para verlos"
+    },
+    "TypeATagName": {
+      "English": "Type a tag name",
+      "French": "Tapez un nom d’étiquette",
+      "Spanish": "Escriba un nombre de etiqueta"
+    },
+    "Validity": {
+      "English": "Validity",
+      "French": "Validité",
+      "Spanish": "Validez"
+    },
+    "ValidityCaution": {
+      "English": "Caution",
+      "French": "Prudence",
+      "Spanish": "Precaución"
+    },
+    "ValidityNone": {
+      "English": "No validity score for this participant",
+      "French": "Aucun score de validité pour ce participant",
+      "Spanish": "No hay puntuación de validez para este participante"
+    },
+    "ValidityOk": {
+      "English": "OK",
+      "French": "OK",
+      "Spanish": "OK"
+    },
+    "Yes": {
+      "English": "Yes",
+      "French": "Oui",
+      "Spanish": "Sí"
+    },
+    "ReportNotAvailable": {
+      "English": "This report’s PDF could not be found.",
+      "French": "Le PDF de ce rapport est introuvable.",
+      "Spanish": "No se encontró el PDF de este informe."
+    },
+    "ResizeReportPanel": {
+      "English": "Resize report panel",
+      "French": "Redimensionner le panneau du rapport",
+      "Spanish": "Cambiar el tamaño del panel del informe"
+    },
+    "ResizeHint": {
+      "English": "Drag to resize · double-click to reset",
+      "French": "Faites glisser pour redimensionner · double-cliquez pour rétablir",
+      "Spanish": "Arrastre para cambiar el tamaño · doble clic para restablecer"
+    },
+    "NPdfsOne": {
+      "English": "1 PDF",
+      "French": "1 PDF",
+      "Spanish": "1 PDF"
+    },
+    "NPdfsOneZipOne": {
+      "English": "1 PDF · one zip",
+      "French": "1 PDF · un zip",
+      "Spanish": "1 PDF · un zip"
+    },
+    "PreparingDownloadOne": {
+      "English": "Preparing 1 report…",
+      "French": "Préparation de 1 rapport…",
+      "Spanish": "Preparando 1 informe…"
+    },
+    "DownloadNReportsConfirmOne": {
+      "English": "Download the report you ticked as a zip file?",
+      "French": "Télécharger le rapport coché dans un fichier zip ?",
+      "Spanish": "¿Descargar el informe marcado en un archivo zip?"
+    },
+    "NReportsSelectedOne": {
+      "English": "1 report selected",
+      "French": "1 rapport sélectionné",
+      "Spanish": "1 informe seleccionado"
+    },
+    "NParticipantsOne": {
+      "English": "1 participant",
+      "French": "1 participant",
+      "Spanish": "1 participante"
+    },
+    "NParticipantsOneZipOne": {
+      "English": "1 participant · one zip",
+      "French": "1 participant · un zip",
+      "Spanish": "1 participante · un zip"
+    },
+    "TagsUpdatedForNOne": {
+      "English": "Tags updated for 1 participant",
+      "French": "Étiquettes mises à jour pour 1 participant",
+      "Spanish": "Etiquetas actualizadas para 1 participante"
+    },
+    "ExportedNRowsOne": {
+      "English": "Exported 1 row",
+      "French": "1 ligne exportée",
+      "Spanish": "1 fila exportada"
+    },
+    "HiddenMembersOne": {
+      "English": "1 member is outside your group codes and is hidden from you.",
+      "French": "1 membre est hors de vos codes de groupe et vous est masqué.",
+      "Spanish": "1 miembro está fuera de sus códigos de grupo y no se le muestra."
+    },
+    "DeleteLosesAccessOne": {
+      "English": "1 person you shared it with loses access.",
+      "French": "1 personne avec qui vous l’avez partagée perdra l’accès.",
+      "Spanish": "1 persona con quien la compartió perderá el acceso."
+    },
+    "NSkippedOne": {
+      "English": "1 skipped",
+      "French": "1 ignoré",
+      "Spanish": "1 omitido"
+    },
+    "NRestoredDoneOne": {
+      "English": "1 restored",
+      "French": "1 restauré",
+      "Spanish": "1 restaurado"
+    },
+    "NArchivedDoneOne": {
+      "English": "1 archived",
+      "French": "1 archivé",
+      "Spanish": "1 archivado"
+    },
+    "NArchivedOne": {
+      "English": "1 archived",
+      "French": "1 archivé",
+      "Spanish": "1 archivado"
+    },
+    "NSelectedOne": {
+      "English": "1 selected",
+      "French": "1 sélectionné",
+      "Spanish": "1 seleccionado"
+    },
+    "NMatchingOne": {
+      "English": "1 matching",
+      "French": "1 correspondant",
+      "Spanish": "1 coincidencia"
+    },
+    "ShowAllNOne": {
+      "English": "Show all 1",
+      "French": "Afficher 1",
+      "Spanish": "Mostrar 1"
+    },
+    "AddNTagsOne": {
+      "English": "Add 1 tag",
+      "French": "Ajouter 1 étiquette",
+      "Spanish": "Agregar 1 etiqueta"
+    },
+    "DownloadQueued": {
+      "English": "Preparing {n} reports in the background",
+      "French": "Préparation de {n} rapports en arrière-plan",
+      "Spanish": "Preparando {n} informes en segundo plano"
+    },
+    "DownloadQueuedBell": {
+      "English": "The bell at the top of the page will show a Download button when the zip is ready. You can keep working.",
+      "French": "La cloche en haut de la page affichera un bouton Télécharger quand le zip sera prêt. Vous pouvez continuer à travailler.",
+      "Spanish": "La campana en la parte superior de la página mostrará un botón Descargar cuando el zip esté listo. Puede seguir trabajando."
+    },
+    "DownloadQueuedOne": {
+      "English": "Preparing 1 report in the background",
+      "French": "Préparation de 1 rapport en arrière-plan",
+      "Spanish": "Preparando 1 informe en segundo plano"
+    },
+    "Proctor": {
+      "English": "Proctor",
+      "French": "Surveillance",
+      "Spanish": "Supervisión"
+    },
+    "ProctoringResult": {
+      "English": "Proctoring result",
+      "French": "Résultat de la surveillance",
+      "Spanish": "Resultado de la supervisión"
+    },
+    "NotProctored": {
+      "English": "Not proctored",
+      "French": "Non surveillé",
+      "Spanish": "Sin supervisión"
+    },
+    "NotProctoredHelp": {
+      "English": "This assessment was completed without a proctoring session.",
+      "French": "Cette évaluation a été complétée sans session de surveillance.",
+      "Spanish": "Esta evaluación se completó sin una sesión de supervisión."
+    },
+    "NoProctorSession": {
+      "English": "No proctoring session found",
+      "French": "Aucune session de surveillance trouvée",
+      "Spanish": "No se encontró ninguna sesión de supervisión"
+    },
+    "NoProctorSessionHelp": {
+      "English": "Proctoring is on for this group code, but no session was recorded for this participant.",
+      "French": "La surveillance est activée pour ce code de groupe, mais aucune session n’a été enregistrée pour ce participant.",
+      "Spanish": "La supervisión está activada para este código de grupo, pero no se registró ninguna sesión para este participante."
+    },
+    "SessionN": {
+      "English": "Session {n}",
+      "French": "Session {n}",
+      "Spanish": "Sesión {n}"
+    },
+    "SessionStarted": {
+      "English": "Started",
+      "French": "Début",
+      "Spanish": "Inicio"
+    },
+    "SessionEnded": {
+      "English": "Ended",
+      "French": "Fin",
+      "Spanish": "Fin"
+    },
+    "Flags": {
+      "English": "Flags",
+      "French": "Signalements",
+      "Spanish": "Alertas"
+    },
+    "NoFlags": {
+      "English": "None",
+      "French": "Aucun",
+      "Spanish": "Ninguna"
+    },
+    "OpenImage": {
+      "English": "Open the full image in a new tab",
+      "French": "Ouvrir l’image complète dans un nouvel onglet",
+      "Spanish": "Abrir la imagen completa en una pestaña nueva"
+    },
+    "ParticipantPhoto": {
+      "English": "Participant photo",
+      "French": "Photo du participant",
+      "Spanish": "Foto del participante"
+    },
+    "Unknown": {
+      "English": "Unknown",
+      "French": "Inconnu",
+      "Spanish": "Desconocido"
+    },
+    "ProctorStatus": {
+      "InProgress": {
+        "English": "In progress",
+        "French": "En cours",
+        "Spanish": "En curso"
+      },
+      "Valid": {
+        "English": "Valid",
+        "French": "Valide",
+        "Spanish": "Válido"
+      },
+      "Invalid": {
+        "English": "Invalid",
+        "French": "Non valide",
+        "Spanish": "No válido"
+      },
+      "ValidOverride": {
+        "English": "Valid (override)",
+        "French": "Valide (dérogation)",
+        "Spanish": "Válido (anulación)"
+      },
+      "InvalidId": {
+        "English": "Invalid (ID)",
+        "French": "Non valide (pièce d’identité)",
+        "Spanish": "No válido (identificación)"
+      },
+      "InvalidOverride": {
+        "English": "Invalid (override)",
+        "French": "Non valide (dérogation)",
+        "Spanish": "No válido (anulación)"
+      },
+      "InvalidRules": {
+        "English": "Invalid (rules)",
+        "French": "Non valide (règles)",
+        "Spanish": "No válido (reglas)"
+      }
+    },
+    "DragToAdd": {
+      "English": "Drag onto a list on the left to add {name}",
+      "French": "Glissez sur une liste à gauche pour ajouter {name}",
+      "Spanish": "Arrastre a una lista de la izquierda para agregar a {name}"
+    },
+    "DropToAdd": {
+      "English": "+ drop to add",
+      "French": "+ déposer pour ajouter",
+      "Spanish": "+ soltar para agregar"
+    },
+    "ViewOnlyNoDrop": {
+      "English": "View only — you can’t add to this list",
+      "French": "Lecture seule — vous ne pouvez pas ajouter à cette liste",
+      "Spanish": "Solo lectura: no puede agregar a esta lista"
+    },
+    "AddedPersonToList": {
+      "English": "Added {name} to “{list}”",
+      "French": "{name} ajouté à « {list} »",
+      "Spanish": "{name} agregado a «{list}»"
+    },
+    "AlreadyOnList": {
+      "English": "{name} is already on “{list}”",
+      "French": "{name} est déjà dans « {list} »",
+      "Spanish": "{name} ya está en «{list}»"
+    },
+    "ViewingNofM": {
+      "English": "Viewing {n} of {m} participants",
+      "French": "{n} participants affichés sur {m}",
+      "Spanish": "Mostrando {n} de {m} participantes"
+    },
+    "AtlChooseList": {
+      "English": "Choose a list",
+      "French": "Choisissez une liste",
+      "Spanish": "Elija una lista"
+    },
+    "AtlNoLists": {
+      "English": "You have no lists you can add to yet.",
+      "French": "Vous n’avez encore aucune liste à laquelle ajouter des participants.",
+      "Spanish": "Todavía no tiene listas a las que pueda agregar participantes."
+    },
+    "AtlNTicked": {
+      "English": "{n} participants selected",
+      "French": "{n} participants sélectionnés",
+      "Spanish": "{n} participantes seleccionados"
+    },
+    "AtlNTickedOne": {
+      "English": "1 participant selected",
+      "French": "1 participant sélectionné",
+      "Spanish": "1 participante seleccionado"
+    },
+    "AtlGoToList": {
+      "English": "Go to list",
+      "French": "Aller à la liste",
+      "Spanish": "Ir a la lista"
+    },
+    "AtlPick": {
+      "English": "Add to list",
+      "French": "Ajouter à une liste",
+      "Spanish": "Agregar a una lista"
+    },
+    "AtlPicked": {
+      "English": "Selected for Add to List - click to unselect",
+      "French": "Sélectionné pour Ajouter à une liste - cliquez pour désélectionner",
+      "Spanish": "Seleccionado para Agregar a una lista: haga clic para quitar la selección"
+    },
+    "Error": {
+      "Error": {
+        "English": "Something went wrong. Please try again.",
+        "French": "Une erreur s’est produite. Veuillez réessayer.",
+        "Spanish": "Algo salió mal. Inténtelo de nuevo."
+      },
+      "NotFound": {
+        "English": "That list no longer exists or is no longer shared with you.",
+        "French": "Cette liste n’existe plus ou n’est plus partagée avec vous.",
+        "Spanish": "Esa lista ya no existe o ya no se comparte con usted."
+      },
+      "Forbidden": {
+        "English": "You don’t have permission to do that on this list.",
+        "French": "Vous n’avez pas l’autorisation d’effectuer cette action sur cette liste.",
+        "Spanish": "No tiene permiso para hacer eso en esta lista."
+      },
+      "BadRequest": {
+        "English": "That request could not be processed.",
+        "French": "Cette demande n’a pas pu être traitée.",
+        "Spanish": "No se pudo procesar la solicitud."
+      },
+      "DuplicateName": {
+        "English": "You already have a list with that name.",
+        "French": "Vous avez déjà une liste portant ce nom.",
+        "Spanish": "Ya tiene una lista con ese nombre."
+      },
+      "InvalidName": {
+        "English": "Names must be 1 to 100 characters (tags 1 to 40).",
+        "French": "Les noms doivent comporter de 1 à 100 caractères (étiquettes : 1 à 40).",
+        "Spanish": "Los nombres deben tener de 1 a 100 caracteres (etiquetas: de 1 a 40)."
+      },
+      "InvalidBenchmark": {
+        "English": "That benchmark is not available to you.",
+        "French": "Ce profil de référence ne vous est pas accessible.",
+        "Spanish": "Ese perfil de referencia no está disponible para usted."
+      },
+      "InvalidShareTarget": {
+        "English": "Lists can only be shared with active users in your company.",
+        "French": "Les listes ne peuvent être partagées qu’avec des utilisateurs actifs de votre entreprise.",
+        "Spanish": "Las listas solo se pueden compartir con usuarios activos de su empresa."
+      },
+      "TooMany": {
+        "English": "Too many people at once. Narrow your selection and try again.",
+        "French": "Trop de personnes à la fois. Réduisez votre sélection et réessayez.",
+        "Spanish": "Demasiadas personas a la vez. Reduzca su selección e inténtelo de nuevo."
+      },
+      "SessionExpired": {
+        "English": "Your session has expired. Please log in again.",
+        "French": "Votre session a expiré. Veuillez vous reconnecter.",
+        "Spanish": "Su sesión ha caducado. Inicie sesión de nuevo."
+      },
+      "NoReports": {
+        "English": "None of those reports could be found.",
+        "French": "Aucun de ces rapports n’a été trouvé.",
+        "Spanish": "No se encontró ninguno de esos informes."
+      },
+      "ProctorUnavailable": {
+        "English": "Proctoring results could not be retrieved right now. Please try again later.",
+        "French": "Les résultats de surveillance ne peuvent pas être récupérés pour le moment. Veuillez réessayer plus tard.",
+        "Spanish": "No se pudieron obtener los resultados de la supervisión en este momento. Inténtelo más tarde."
+      }
+    }
+  }
