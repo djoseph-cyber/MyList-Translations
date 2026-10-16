@@ -206,12 +206,12 @@
     },
     "ViewOnly": {
       "English": "View only",
-      "French": "Consultation seule",
+      "French": "Lecture seule",
       "Spanish": "Solo lectura"
     },
     "AccessEditShort": {
       "English": "edit",
-      "French": "modification",
+      "French": "modifier",
       "Spanish": "edición"
     },
     "AccessViewShort": {
@@ -351,7 +351,7 @@
     },
     "HintAll": {
       "English": "Tick participants, then choose Add to list.",
-      "French": "Cochez des participants, puis choisissez Ajouter à une liste.",
+      "French": "Cochez des participants, puis choisissez Ajouter à la liste.",
       "Spanish": "Marque participantes y luego elija Agregar a una lista."
     },
     "HintList": {
@@ -482,7 +482,7 @@
     "NobodyMatches": {
       "English": "Nobody matches.",
       "French": "Aucun résultat.",
-      "Spanish": "Nadie coincide."
+      "Spanish": "No hay resultados."
     },
     "ClearFilters": {
       "English": "Clear filters",
@@ -547,7 +547,7 @@
     "EveryoneHasAccess": {
       "English": "Everyone already has access",
       "French": "Tout le monde a déjà accès",
-      "Spanish": "Todos ya tienen acceso"
+      "Spanish": "Todas las personas ya tienen acceso"
     },
     "OnlyYouCanSee": {
       "English": "Only you can see this list.",
@@ -557,7 +557,7 @@
     "ShareAccessNote": {
       "English": "Can view: see the list and its participants. Can edit: also add and remove people. Only you can rename, share or delete the list.",
       "French": "Peut consulter : voir la liste et ses participants. Peut modifier : aussi ajouter et retirer des personnes. Vous seul pouvez renommer, partager ou supprimer la liste.",
-      "Spanish": "Puede ver: ver la lista y sus participantes. Puede editar: además agregar y quitar personas. Solo usted puede cambiar el nombre, compartir o eliminar la lista."
+      "Spanish": "Puede ver: consultar la lista y sus participantes. Puede editar: además, agregar y quitar personas. Solo usted puede cambiar el nombre de la lista, compartirla o eliminarla."
     },
     "CompanyOnly": {
       "English": "People in your company only",
@@ -617,7 +617,7 @@
     "AllBenchmarkHelp": {
       "English": "Scores everyone in view for this visit. It is not saved; each list keeps its own benchmark.",
       "French": "Évalue toutes les personnes affichées pour cette visite. Ce n’est pas enregistré ; chaque liste garde son propre profil de référence.",
-      "Spanish": "Puntúa a todas las personas visibles durante esta visita. No se guarda; cada lista conserva su propio perfil de referencia."
+      "Spanish": "Puntúa a todas las personas visibles durante esta visita. No se guarda; cada lista conserva su propio punto de referencia."
     },
     "AllNSelected": {
       "English": "All {n} selected",
@@ -626,8 +626,8 @@
     },
     "AnyFit": {
       "English": "Any fit",
-      "French": "Toute adéquation",
-      "Spanish": "Cualquier ajuste"
+      "French": "Toute compatibilité",
+      "Spanish": "Cualquier nivel de afinidad"
     },
     "Apply": {
       "English": "Apply",
@@ -657,17 +657,17 @@
     "Benchmark": {
       "English": "Benchmark",
       "French": "Profil de référence",
-      "Spanish": "Perfil de referencia"
+      "Spanish": "Punto de referencia"
     },
     "BenchmarkRemoved": {
       "English": "Benchmark removed",
       "French": "Profil de référence retiré",
-      "Spanish": "Perfil de referencia quitado"
+      "Spanish": "Punto de referencia quitado"
     },
     "BulkTagHelp": {
       "English": "Click a tag to add it to everyone selected; click again to remove it from everyone; a third click leaves it as it was.",
       "French": "Cliquez sur une étiquette pour l’ajouter à toutes les personnes sélectionnées ; cliquez à nouveau pour la retirer à tout le monde ; un troisième clic la laisse inchangée.",
-      "Spanish": "Haga clic en una etiqueta para agregarla a todos los seleccionados; vuelva a hacer clic para quitarla a todos; un tercer clic la deja como estaba."
+      "Spanish": "Haga clic en una etiqueta para agregarla a todos los seleccionados; vuelva a hacer clic para quitársela a todos; un tercer clic la deja como estaba."
     },
     "Change": {
       "English": "change",
@@ -677,7 +677,7 @@
     "CompanyBenchmark": {
       "English": "Company benchmark",
       "French": "Profil de l’entreprise",
-      "Spanish": "Perfil de la empresa"
+      "Spanish": "Punto de referencia de la empresa"
     },
     "Completed": {
       "English": "Completed",
@@ -712,7 +712,7 @@
     "DownloadLimitNote": {
       "English": "Up to {n} reports per download. More than {m} are prepared in the background, and the bell tells you when the zip is ready.",
       "French": "Jusqu’à {n} rapports par téléchargement. Au-delà de {m}, ils sont préparés en arrière-plan et la cloche vous prévient quand le zip est prêt.",
-      "Spanish": "Hasta {n} informes por descarga. Más de {m} se preparan en segundo plano y la campana le avisa cuando el zip está listo."
+      "Spanish": "Hasta {n} informes por descarga. Si son más de {m}, se preparan en segundo plano y la campana le avisará cuando el archivo zip esté listo."
     },
     "DownloadN": {
       "English": "Download {n}",
@@ -756,8 +756,8 @@
     },
     "FilterByFit": {
       "English": "Filter by fit",
-      "French": "Filtrer par adéquation",
-      "Spanish": "Filtrar por ajuste"
+      "French": "Filtrer par compatibilité",
+      "Spanish": "Filtrar por afinidad"
     },
     "FindOrCreateTag": {
       "English": "Find or create a tag",
@@ -771,33 +771,33 @@
     },
     "Fit": {
       "English": "Fit",
-      "French": "Adéquation",
-      "Spanish": "Ajuste"
+      "French": "Compatibilité",
+      "Spanish": "Afinidad"
     },
     "FitHigh": {
       "English": "High (75+)",
       "French": "Élevée (75+)",
-      "Spanish": "Alto (75+)"
+      "Spanish": "Alta (75+)"
     },
     "FitLow": {
       "English": "Low (under 50)",
       "French": "Faible (moins de 50)",
-      "Spanish": "Bajo (menos de 50)"
+      "Spanish": "Baja (menos de 50)"
     },
     "FitMid": {
       "English": "Mid (50–74)",
       "French": "Moyenne (50–74)",
-      "Spanish": "Medio (50–74)"
+      "Spanish": "Media (50–74)"
     },
     "FitScore": {
       "English": "Fit score",
-      "French": "Score d’adéquation",
-      "Spanish": "Puntuación de ajuste"
+      "French": "Score de compatibilité",
+      "Spanish": "Puntuación de afinidad"
     },
     "FitTo": {
       "English": "Fit to {bm}",
-      "French": "Adéquation à {bm}",
-      "Spanish": "Ajuste a {bm}"
+      "French": "Compatible avec {bm}",
+      "Spanish": "Afinidad con {bm}"
     },
     "GroupCodeDescription": {
       "English": "Group code description",
@@ -817,12 +817,12 @@
     "ListBenchmark": {
       "English": "List benchmark",
       "French": "Profil de référence de la liste",
-      "Spanish": "Perfil de referencia de la lista"
+      "Spanish": "Punto de referencia de la lista"
     },
     "ListBenchmarkHelp": {
       "English": "A list is scored against one benchmark, saved with the list, or none. Changing it rescores all {n} people for everyone who can see the list.",
       "French": "Une liste est évaluée selon un seul profil de référence, enregistré avec la liste, ou aucun. Le modifier réévalue les {n} personnes pour tous ceux qui voient la liste.",
-      "Spanish": "Una lista se puntúa con un solo perfil de referencia, guardado con la lista, o ninguno. Cambiarlo vuelve a puntuar a las {n} personas para todos los que pueden ver la lista."
+      "Spanish": "Una lista se puntúa con un solo punto de referencia, guardado con la lista, o con ninguno. Cambiarlo vuelve a puntuar a las {n} personas para todos los que pueden ver la lista."
     },
     "ListShort": {
       "English": "List",
@@ -847,7 +847,7 @@
     "NFit": {
       "English": "{n} fit",
       "French": "{n} adéq.",
-      "Spanish": "{n} ajuste"
+      "Spanish": "Afinidad: {n}"
     },
     "NParticipantsOneZip": {
       "English": "{n} participants · one zip",
@@ -882,7 +882,7 @@
     "NoBenchmark": {
       "English": "No benchmark",
       "French": "Aucun profil de référence",
-      "Spanish": "Sin perfil de referencia"
+      "Spanish": "Sin punto de referencia"
     },
     "NoChangesYet": {
       "English": "No changes yet",
@@ -891,8 +891,8 @@
     },
     "NoFitScores": {
       "English": "No fit scores are shown",
-      "French": "Aucun score d’adéquation affiché",
-      "Spanish": "No se muestran puntuaciones de ajuste"
+      "French": "Aucun score de compatibilité affiché",
+      "Spanish": "No se muestran puntuaciones de afinidad"
     },
     "NoTagsMatch": {
       "English": "No tags match.",
@@ -921,8 +921,8 @@
     },
     "OnlyShowFitAtLeast": {
       "English": "Only show fit of at least {n}",
-      "French": "N’afficher qu’une adéquation d’au moins {n}",
-      "Spanish": "Mostrar solo un ajuste de al menos {n}"
+      "French": "N’afficher qu’un score de compatibilité d’au moins {n}",
+      "Spanish": "Mostrar solo afinidad de {n} o más"
     },
     "OpenReport": {
       "English": "Open {product} {report} PDF",
@@ -952,12 +952,12 @@
     "RemoveFromAllN": {
       "English": "remove from all {n}",
       "French": "retirer aux {n}",
-      "Spanish": "quitar a los {n}"
+      "Spanish": "quitar de los {n}"
     },
     "RemoveFromAllSelected": {
       "English": "Remove from everyone selected",
       "French": "Retirer à toutes les personnes sélectionnées",
-      "Spanish": "Quitar a todos los seleccionados"
+      "Spanish": "Quitar de todos los seleccionados"
     },
     "RemoveNTags": {
       "English": "remove {n}",
@@ -992,7 +992,7 @@
     "RescoredAgainst": {
       "English": "Rescored against {bm}",
       "French": "Réévalué selon {bm}",
-      "Spanish": "Puntuado de nuevo con {bm}"
+      "Spanish": "Puntuación recalculada con {bm}"
     },
     "Restore": {
       "English": "Restore",
@@ -1002,7 +1002,7 @@
     "ScoreAgainstBenchmark": {
       "English": "Score against a benchmark…",
       "French": "Évaluer selon un profil de référence…",
-      "Spanish": "Puntuar con un perfil de referencia…"
+      "Spanish": "Puntuar con un punto de referencia…"
     },
     "SelectAllReportsFor": {
       "English": "Select all reports for {name}",
@@ -1052,7 +1052,7 @@
     "TagsChangeAllSelected": {
       "English": "Adding or removing a tag here changes all {n} selected participants.",
       "French": "Ajouter ou retirer une étiquette ici modifie les {n} participants sélectionnés.",
-      "Spanish": "Agregar o quitar una etiqueta aquí cambia a los {n} participantes seleccionados."
+      "Spanish": "Agregar o quitar una etiqueta aquí afecta a los {n} participantes seleccionados."
     },
     "TagsFor": {
       "English": "Tags · {who}",
@@ -1117,7 +1117,7 @@
     "ResizeHint": {
       "English": "Drag to resize · double-click to reset",
       "French": "Faites glisser pour redimensionner · double-cliquez pour rétablir",
-      "Spanish": "Arrastre para cambiar el tamaño · doble clic para restablecer"
+      "Spanish": "Arrastre para cambiar el tamaño · haga doble clic para restablecer"
     },
     "NPdfsOne": {
       "English": "1 PDF",
@@ -1222,7 +1222,7 @@
     "DownloadQueuedBell": {
       "English": "The bell at the top of the page will show a Download button when the zip is ready. You can keep working.",
       "French": "La cloche en haut de la page affichera un bouton Télécharger quand le zip sera prêt. Vous pouvez continuer à travailler.",
-      "Spanish": "La campana en la parte superior de la página mostrará un botón Descargar cuando el zip esté listo. Puede seguir trabajando."
+      "Spanish": "La campana de la parte superior de la página mostrará un botón Descargar cuando el archivo zip esté listo. Puede seguir trabajando."
     },
     "DownloadQueuedOne": {
       "English": "Preparing 1 report in the background",
@@ -1318,7 +1318,7 @@
       "ValidOverride": {
         "English": "Valid (override)",
         "French": "Valide (dérogation)",
-        "Spanish": "Válido (anulación)"
+        "Spanish": "Válido (decisión manual)"
       },
       "InvalidId": {
         "English": "Invalid (ID)",
@@ -1328,7 +1328,7 @@
       "InvalidOverride": {
         "English": "Invalid (override)",
         "French": "Non valide (dérogation)",
-        "Spanish": "No válido (anulación)"
+        "Spanish": "No válido (decisión manual)"
       },
       "InvalidRules": {
         "English": "Invalid (rules)",
@@ -1349,12 +1349,12 @@
     "ViewOnlyNoDrop": {
       "English": "View only — you can’t add to this list",
       "French": "Lecture seule — vous ne pouvez pas ajouter à cette liste",
-      "Spanish": "Solo lectura: no puede agregar a esta lista"
+      "Spanish": "Solo lectura: no puede agregar participantes a esta lista"
     },
     "AddedPersonToList": {
       "English": "Added {name} to “{list}”",
       "French": "{name} ajouté à « {list} »",
-      "Spanish": "{name} agregado a «{list}»"
+      "Spanish": "{name} se agregó a «{list}»"
     },
     "AlreadyOnList": {
       "English": "{name} is already on “{list}”",
@@ -1405,7 +1405,7 @@
       "Error": {
         "English": "Something went wrong. Please try again.",
         "French": "Une erreur s’est produite. Veuillez réessayer.",
-        "Spanish": "Algo salió mal. Inténtelo de nuevo."
+        "Spanish": "Se produjo un error. Inténtelo de nuevo."
       },
       "NotFound": {
         "English": "That list no longer exists or is no longer shared with you.",
@@ -1415,7 +1415,7 @@
       "Forbidden": {
         "English": "You don’t have permission to do that on this list.",
         "French": "Vous n’avez pas l’autorisation d’effectuer cette action sur cette liste.",
-        "Spanish": "No tiene permiso para hacer eso en esta lista."
+        "Spanish": "No tiene permiso para realizar esta acción en esta lista."
       },
       "BadRequest": {
         "English": "That request could not be processed.",
@@ -1435,7 +1435,7 @@
       "InvalidBenchmark": {
         "English": "That benchmark is not available to you.",
         "French": "Ce profil de référence ne vous est pas accessible.",
-        "Spanish": "Ese perfil de referencia no está disponible para usted."
+        "Spanish": "Ese punto de referencia no está disponible para usted."
       },
       "InvalidShareTarget": {
         "English": "Lists can only be shared with active users in your company.",
@@ -1450,7 +1450,7 @@
       "SessionExpired": {
         "English": "Your session has expired. Please log in again.",
         "French": "Votre session a expiré. Veuillez vous reconnecter.",
-        "Spanish": "Su sesión ha caducado. Inicie sesión de nuevo."
+        "Spanish": "Su sesión ha expirado. Vuelva a iniciar sesión."
       },
       "NoReports": {
         "English": "None of those reports could be found.",
